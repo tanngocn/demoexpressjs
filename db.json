@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "name": "Iphone xs 256GB",
+      "id": "gDyiwpgkw"
+    },
+    {
+      "name": "Học Redux",
+      "id": "JHSihLKFs"
+    },
+    {
+      "name": "Học Redux",
+      "id": "-BGWrQNeD"
+    },
+    {
+      "name": "Samsung note7",
+      "id": "kivHdaYg5"
+    },
+    {
+      "name": "zseooz",
+      "phone": "09876543",
+      "id": "x6sdnFZ57"
+    },
+    {
+      "name": "zseooz",
+      "phone": "2343214",
+      "id": "HY7ip_cA-"
+    }
+  ]
+}
